@@ -10,6 +10,7 @@ namespace EddieGit
         public Some()
         {
             _test = "1";
+            _test2 = "2";
         }
     }
 }
